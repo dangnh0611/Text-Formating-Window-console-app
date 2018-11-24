@@ -12,7 +12,7 @@ Thank my team for helping and teaching me,then we have completed this small proj
   
   -Đào Duy Nam (https://namdaoduy.github.io/)
   
-  -Nguyễn Hồng Đăng
+  -Nguyễn Hồng Đăng (https://github.com/dangnh0611)
   
   -Nguyễn Văn Lân
   
